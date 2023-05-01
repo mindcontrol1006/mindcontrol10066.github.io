@@ -50,7 +50,7 @@
  
 
 ### 주요 내용
-<img src="./img/img12.jpg" width="640" height="480"><br>
+<img src="./img/img12.PNG" width="640" height="480"><br>
 - 게임엔진을 활용한 즉각적인 몰입감을 위한 AR 가상현실 콘텐츠 생성 기술
 
 <img src="./img/img4.jpg" width="640" height="480"><br>
