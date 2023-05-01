@@ -18,6 +18,9 @@
   - [4주차](#4주차)
   - [5주차](#5주차)
   - [6주차](#6주차)
+  - [7주차](#7주차)
+  - [8주차](#8주차)
+  - [9주차](#9주차)
 # [프로젝트명 : 트랜스폼Drone 프로젝트]
 트랜스폼Drone 프로젝트
 
@@ -92,20 +95,14 @@
 <img src="./img/img11.jpg" width="640" height="480"><br>
 <br><br>
 
-# 개발 작업 일정(총 15주)
-<img src="./img/week.png">
-
 # 주차별 개발 내용
 ## 1주차
-
-<br>
 1주차 진행내용<br>
 오리엔테이션 진행<br>
 팀결성 강윤성, 박찬, 최원준, 최재영 팀최강박 결성<br>
 아이스브레이킹<br>
 
 ## 2주차
-<br>
 2주차 진행 내용<br>
 계획서 작성<br>
 팀원 역할 분배<br>
@@ -115,7 +112,6 @@
 최재영 : 프로그래밍<br>
 
 ## 3주차
-<br>
 3주차 진행 내용<br>
 강윤성 : C관, 실외기 모델링과 C관, 실외기, 드론 Texturing을 하였음<br>
 최원준 : C관, 드론 모델링과 샘플 드론 제작을 하였음 <br>
@@ -123,7 +119,6 @@
 최재영 : 프로그래밍 기술 조사를 하였음<br>
 
 ## 4주차
-<br>
 4주차 진행 내용<br>
 팀원모두 : 월간, 주간 계획표 제작<br>
 강윤성 : 잔디, 경계석, 보도블럭제작, 레벨디자인 일부진행<br>
@@ -132,7 +127,6 @@
 최재영 : AR 인식 기술에 필요한 OpenCV에 대한 조사와 개발환경 구축, 그리고 OpenCV의 함수 조사<br>
 
 ## 5주차
-<br>
 5주차 진행 내용<br>
 그래픽부분은 이수열 교수님의 피드백을 받아 맵3개를 실제적으로 구현 이 어려울 것으로 판단되고 맵이 작아서 대학교만 전부 직접구현으로 목표를 바꾸고 나머지 맵은 에셋스토어에서 구매하여 레벨디자인을 하기로 회의를 진행하였음 <br>
 강윤성 : H관 모듈화 진행 <br>
@@ -143,7 +137,6 @@
 최재영 : Vuforia Core를 사용하여 Unity에서 AR환경구축 <br>
 
 ## 6주차
-<br>
 5주차 진행 내용<br>
 강윤성 : H관 Modeling, UV Editing, Texturing, Shading, Leveling
 C관 UV Editing, Texturing, Shading <br> 
@@ -152,7 +145,6 @@ C관 UV Editing, Texturing, Shading <br>
 최재영 : 다수의 image target을 설정하여 다른 이미지 인식 테스트<br>
 
 ## 7주차
-<br>
 7주차 진행 내용<br>
 강윤성 : C, H관 UV Editing, Texturing, Shading, Leveling,Terrain Sculpting, Ground Asphalt Tile Texturing <br>
 최원준 : J관 모델링 및 모듈화<br>
@@ -160,7 +152,6 @@ C관 UV Editing, Texturing, Shading <br>
 최재영 : 드론 생성 씬 제작, 클라이언트 1차 병합, 안드로이드 빌드<br>
 
 ## 8주차
-<br>
 8주차 진행 내용<br>
  강윤성 : J관 UV Editing, Texturing, Shading, Leveling, Terrain Sculpting, Ground Asphalt Tilling<br>
 최원준 : J관 Modular Modeling, SP관 Modular Modeling<br>
@@ -168,7 +159,6 @@ C관 UV Editing, Texturing, Shading <br>
 최재영 : 안드로이드 버그 수정, HDRP Render Pipeline Research, 도움말 Scene 제작<br>
 
 ## 9주차
-<br>
 9주차 진행 내용<br>
 강윤성 : SP관 UV Editing, Texturing, Shading, Leveling<br>
 최원준 : A관 Modular Modeling <br>
