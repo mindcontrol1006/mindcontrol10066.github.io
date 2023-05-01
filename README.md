@@ -90,7 +90,7 @@
 
 
 ### 향후 계획
-<img src="./img/img10.PNG" width="800" height="480"><br>
+<img src="./img/img10.PNG" width="850" height="480"><br>
 
 <img src="./img/img11.PNG" width="720" height="480"><br>
 <br><br>
