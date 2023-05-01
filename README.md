@@ -50,7 +50,7 @@
  
 
 ### 주요 내용
-<img src="./img/img12.PNG" width="640" height="300"><br>
+<img src="./img/img12.PNG" width="720" height="300"><br>
 - 게임엔진을 활용한 즉각적인 몰입감을 위한 AR 가상현실 콘텐츠 생성 기술
 
 <img src="./img/img4.jpg" width="640" height="480"><br>
@@ -79,10 +79,10 @@
 # [프로젝트 진행 상황]
 
 ### 프로젝트 수행 일정
-<img src="./img/img8.PNG" width="640" height="480"><br>
+<img src="./img/img8.PNG" width="720" height="480"><br>
 
 ### 현재까지의 프로젝트 수행 내용
-<img src="./img/img9.PNG" width="640" height="480"><br>
+<img src="./img/img9.PNG" width="720" height="480"><br>
 
 ### 현재까지의 프로젝트 성과 영상
 - 유튜브 링크
@@ -90,9 +90,9 @@
 
 
 ### 향후 계획
-<img src="./img/img10.PNG" width="640" height="480"><br>
+<img src="./img/img10.PNG" width="800" height="480"><br>
 
-<img src="./img/img11.PNG" width="640" height="480"><br>
+<img src="./img/img11.PNG" width="720" height="480"><br>
 <br><br>
 
 # 주차별 개발 내용
